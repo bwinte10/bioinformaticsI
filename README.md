@@ -1,2 +1,2 @@
 # bioinformaticsI
-first module of pevsners bioinformatics class
+first module of bioinformatics class
